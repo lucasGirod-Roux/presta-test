@@ -1,0 +1,4 @@
+[submodule "themes/classic-rocket"]
+	path = themes/classic-rocket
+	url = git@github.com:prestarocket-agence/classic-rocket-v3.git
+	branch = dev
